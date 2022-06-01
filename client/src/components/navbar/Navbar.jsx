@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div className='navbar'>
       <Link to='/' className='navbar__logo'>
-        Partaw-Association
+        Partaw
       </Link>
       <ul className='navbar__links'>
         <li>
